@@ -1,0 +1,2528 @@
+[
+    {
+        "pairs": [
+            [
+                "blizzard",
+                "cyclone"
+            ],
+            [
+                "rain",
+                "earthquake"
+            ],
+            [
+                "rainstorm",
+                "hurricane"
+            ],
+            [
+                "rainy",
+                "snowstorm"
+            ],
+            [
+                "sleet",
+                "storm"
+            ],
+            [
+                "snow",
+                "thunderstorm"
+            ],
+            [
+                "weather",
+                "tsunami"
+            ],
+            [
+                "winter",
+                "typhoon"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5545250773429871,
+        "word_level_coherence": [
+            0.4846363067626953,
+            0.49919915199279785
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "blizzard",
+                "rain"
+            ],
+            [
+                "cyclone",
+                "rainstorm"
+            ],
+            [
+                "earthquake",
+                "rainy"
+            ],
+            [
+                "hurricane",
+                "sleet"
+            ],
+            [
+                "snowstorm",
+                "weather"
+            ],
+            [
+                "storm",
+                "snow"
+            ],
+            [
+                "thunderstorm",
+                "winter"
+            ]
+        ],
+        "intra_cluster_coherence": 0.528479814529419,
+        "word_level_coherence": [
+            0.5001299977302551,
+            0.49143272638320923
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "hellcat",
+                "god"
+            ],
+            [
+                "temptress",
+                "thug"
+            ],
+            [
+                "vixen",
+                "demon"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6609077453613281,
+        "word_level_coherence": [
+            0.6043208837509155,
+            0.3720499277114868
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "blade",
+                "gun"
+            ],
+            [
+                "hacksaw",
+                "handgun"
+            ],
+            [
+                "handsaw",
+                "knife"
+            ],
+            [
+                "mattock",
+                "pistol"
+            ],
+            [
+                "pliers",
+                "rifle"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7060317993164062,
+        "word_level_coherence": [
+            0.48456352949142456,
+            0.6763909459114075
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "blade",
+                "hacksaw"
+            ],
+            [
+                "gun",
+                "handsaw"
+            ],
+            [
+                "handgun",
+                "knife"
+            ],
+            [
+                "mattock",
+                "pliers"
+            ],
+            [
+                "pistol",
+                "scissors"
+            ],
+            [
+                "rifle",
+                "screwdriver"
+            ]
+        ],
+        "intra_cluster_coherence": 0.616575300693512,
+        "word_level_coherence": [
+            0.4880281686782837,
+            0.5460193753242493
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "freight",
+                "rail"
+            ],
+            [
+                "streetcar",
+                "tram"
+            ],
+            [
+                "transit",
+                "trolley"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6023597717285156,
+        "word_level_coherence": [
+            0.4359908103942871,
+            0.6044452786445618
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "rail",
+                "freight"
+            ],
+            [
+                "streetcar",
+                "transit"
+            ],
+            [
+                "tram",
+                "transport"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7617373466491699,
+        "word_level_coherence": [
+            0.6259067058563232,
+            0.5114426016807556
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "SUV",
+                "bus"
+            ],
+            [
+                "car",
+                "minibus"
+            ],
+            [
+                "motorcycle",
+                "taxi"
+            ],
+            [
+                "scooter",
+                "truck"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6241510510444641,
+        "word_level_coherence": [
+            0.6225736737251282,
+            0.5536312460899353
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "SUV",
+                "motorcycle"
+            ],
+            [
+                "bus",
+                "car"
+            ],
+            [
+                "minibus",
+                "scooter"
+            ],
+            [
+                "taxi",
+                "truck"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5684967041015625,
+        "word_level_coherence": [
+            0.5108761191368103,
+            0.6087496280670166
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "implementation",
+                "expansion"
+            ],
+            [
+                "integration",
+                "creation"
+            ],
+            [
+                "standardization",
+                "development"
+            ]
+        ],
+        "intra_cluster_coherence": 0.697750985622406,
+        "word_level_coherence": [
+            0.5036810636520386,
+            0.48294010758399963
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "availability",
+                "creation"
+            ],
+            [
+                "development",
+                "transformation"
+            ],
+            [
+                "utilization",
+                "expansion"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6748124957084656,
+        "word_level_coherence": [
+            0.3607926368713379,
+            0.42218947410583496
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "creation",
+                "integration"
+            ],
+            [
+                "development",
+                "standardization"
+            ],
+            [
+                "expansion",
+                "implementation"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6977508664131165,
+        "word_level_coherence": [
+            0.48294010758399963,
+            0.5036810636520386
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "adverb",
+                "phrase"
+            ],
+            [
+                "comma",
+                "adjective"
+            ],
+            [
+                "punctuation",
+                "neologism"
+            ],
+            [
+                "semicolon",
+                "noun"
+            ]
+        ],
+        "intra_cluster_coherence": 0.642510712146759,
+        "word_level_coherence": [
+            0.5523740649223328,
+            0.5879920125007629
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "adjective",
+                "comma"
+            ],
+            [
+                "neologism",
+                "punctuation"
+            ],
+            [
+                "noun",
+                "semicolon"
+            ],
+            [
+                "phrase",
+                "adverb"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6425107717514038,
+        "word_level_coherence": [
+            0.5879919528961182,
+            0.5523740649223328
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "colonialism",
+                "counterterrorism"
+            ],
+            [
+                "expansionism",
+                "military"
+            ],
+            [
+                "insurrection",
+                "terror"
+            ],
+            [
+                "war",
+                "terrorism"
+            ]
+        ],
+        "intra_cluster_coherence": 0.660136342048645,
+        "word_level_coherence": [
+            0.4140983521938324,
+            0.5286269783973694
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "counterterrorism",
+                "colonialism"
+            ],
+            [
+                "insurrection",
+                "war"
+            ],
+            [
+                "military",
+                "expansionism"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6086445450782776,
+        "word_level_coherence": [
+            0.30918240547180176,
+            0.4383656978607178
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "anesthesiologist",
+                "counselor"
+            ],
+            [
+                "dentist",
+                "nurse"
+            ],
+            [
+                "doctor",
+                "pharmacist"
+            ],
+            [
+                "ophthalmologist",
+                "psychiatrist"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5697841048240662,
+        "word_level_coherence": [
+            0.6003037095069885,
+            0.4730636775493622
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "counselor",
+                "anesthesiologist"
+            ],
+            [
+                "dentist",
+                "ophthalmologist"
+            ],
+            [
+                "psychiatrist",
+                "doctor"
+            ],
+            [
+                "psychologist",
+                "nurse"
+            ],
+            [
+                "therapist",
+                "pharmacist"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5913859009742737,
+        "word_level_coherence": [
+            0.5540393590927124,
+            0.5626000165939331
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "aluminum",
+                "coal"
+            ],
+            [
+                "copper",
+                "gas"
+            ],
+            [
+                "mining",
+                "hydrocarbon"
+            ],
+            [
+                "ore",
+                "methane"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6450838446617126,
+        "word_level_coherence": [
+            0.4567376375198364,
+            0.49500036239624023
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "coal",
+                "aluminum"
+            ],
+            [
+                "gas",
+                "copper"
+            ],
+            [
+                "hydrocarbon",
+                "mining"
+            ],
+            [
+                "methane",
+                "ore"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6450838446617126,
+        "word_level_coherence": [
+            0.49500036239624023,
+            0.4567376375198364
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "casement",
+                "gripper"
+            ],
+            [
+                "hexagon",
+                "coil"
+            ],
+            [
+                "parallelogram",
+                "spool"
+            ],
+            [
+                "valance",
+                "plier"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6055184602737427,
+        "word_level_coherence": [
+            0.48806890845298767,
+            0.48241516947746277
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "casement",
+                "hexagon"
+            ],
+            [
+                "coil",
+                "plier"
+            ],
+            [
+                "gripper",
+                "parallelogram"
+            ],
+            [
+                "spool",
+                "valance"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5523374676704407,
+        "word_level_coherence": [
+            0.4483771324157715,
+            0.4314815104007721
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "abdomen",
+                "ankle"
+            ],
+            [
+                "chest",
+                "clavicle"
+            ],
+            [
+                "chin",
+                "elbow"
+            ],
+            [
+                "eyebrow",
+                "bone"
+            ],
+            [
+                "forearm",
+                "finger"
+            ],
+            [
+                "forehead",
+                "hip"
+            ],
+            [
+                "jaw",
+                "knee"
+            ],
+            [
+                "leg",
+                "pinkie"
+            ],
+            [
+                "nose",
+                "shin"
+            ],
+            [
+                "thigh",
+                "thumb"
+            ],
+            [
+                "torso",
+                "heel"
+            ]
+        ],
+        "intra_cluster_coherence": 0.4731104075908661,
+        "word_level_coherence": [
+            0.502028226852417,
+            0.5449599623680115
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "abdomen",
+                "chin"
+            ],
+            [
+                "ankle",
+                "chest"
+            ],
+            [
+                "bone",
+                "eyebrow"
+            ],
+            [
+                "elbow",
+                "forehead"
+            ],
+            [
+                "finger",
+                "forearm"
+            ],
+            [
+                "heel",
+                "torso"
+            ],
+            [
+                "hip",
+                "nose"
+            ],
+            [
+                "knee",
+                "jaw"
+            ],
+            [
+                "pinkie",
+                "leg"
+            ],
+            [
+                "thumb",
+                "thigh"
+            ]
+        ],
+        "intra_cluster_coherence": 0.425132691860199,
+        "word_level_coherence": [
+            0.5047500729560852,
+            0.4971596300601959
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "bangle",
+                "bracelet"
+            ],
+            [
+                "brooch",
+                "figurine"
+            ],
+            [
+                "earring",
+                "ornament"
+            ],
+            [
+                "earrings",
+                "porcelain"
+            ],
+            [
+                "necklace",
+                "vase"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5792598724365234,
+        "word_level_coherence": [
+            0.6150043606758118,
+            0.45301899313926697
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "bracelet",
+                "bangle"
+            ],
+            [
+                "brooch",
+                "earring"
+            ],
+            [
+                "figurine",
+                "earrings"
+            ],
+            [
+                "ornament",
+                "necklace"
+            ],
+            [
+                "porcelain",
+                "pendant"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5075235366821289,
+        "word_level_coherence": [
+            0.44241195917129517,
+            0.6238412857055664
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "area",
+                "east"
+            ],
+            [
+                "north",
+                "southeast"
+            ],
+            [
+                "south",
+                "western"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6015434861183167,
+        "word_level_coherence": [
+            0.6465142369270325,
+            0.7030906677246094
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "east",
+                "area"
+            ],
+            [
+                "southeast",
+                "north"
+            ],
+            [
+                "western",
+                "south"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6015434861183167,
+        "word_level_coherence": [
+            0.7030906677246094,
+            0.6465142369270325
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "armoire",
+                "banquette"
+            ],
+            [
+                "bookcase",
+                "chaise"
+            ],
+            [
+                "credenza",
+                "futon"
+            ],
+            [
+                "dresser",
+                "divan"
+            ],
+            [
+                "mattress",
+                "sofa"
+            ],
+            [
+                "sideboard",
+                "recliner"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5107113718986511,
+        "word_level_coherence": [
+            0.5413368344306946,
+            0.5293166041374207
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "banquette",
+                "armoire"
+            ],
+            [
+                "chaise",
+                "bookcase"
+            ],
+            [
+                "divan",
+                "dresser"
+            ],
+            [
+                "futon",
+                "credenza"
+            ],
+            [
+                "mattress",
+                "sideboard"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5730882883071899,
+        "word_level_coherence": [
+            0.4587480127811432,
+            0.6132323741912842
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "aunt",
+                "boy"
+            ],
+            [
+                "brother",
+                "girl"
+            ],
+            [
+                "cousin",
+                "teenager"
+            ],
+            [
+                "dad",
+                "woman"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7423357367515564,
+        "word_level_coherence": [
+            0.6655280590057373,
+            0.718501627445221
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "boy",
+                "aunt"
+            ],
+            [
+                "girl",
+                "brother"
+            ],
+            [
+                "teenager",
+                "cousin"
+            ],
+            [
+                "woman",
+                "dad"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7423357367515564,
+        "word_level_coherence": [
+            0.718501627445221,
+            0.6655280590057373
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "aunt",
+                "brother"
+            ],
+            [
+                "grandma",
+                "daughter"
+            ],
+            [
+                "grandmother",
+                "nephew"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7803565859794617,
+        "word_level_coherence": [
+            0.7780677676200867,
+            0.7248819470405579
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "brother",
+                "aunt"
+            ],
+            [
+                "daughter",
+                "grandma"
+            ],
+            [
+                "nephew",
+                "grandmother"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7803565859794617,
+        "word_level_coherence": [
+            0.7248819470405579,
+            0.7780677676200867
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "boyfriend",
+                "brother"
+            ],
+            [
+                "girlfriend",
+                "daughter"
+            ],
+            [
+                "wife",
+                "grandpa"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7220435738563538,
+        "word_level_coherence": [
+            0.728447437286377,
+            0.5550073981285095
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "grief",
+                "amazement"
+            ],
+            [
+                "heartache",
+                "bafflement"
+            ],
+            [
+                "joy",
+                "outrage"
+            ],
+            [
+                "sadness",
+                "anger"
+            ],
+            [
+                "sorrow",
+                "disgust"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6742621660232544,
+        "word_level_coherence": [
+            0.6347590684890747,
+            0.5790024995803833
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "amazement",
+                "grief"
+            ],
+            [
+                "anger",
+                "sadness"
+            ],
+            [
+                "bafflement",
+                "heartache"
+            ],
+            [
+                "disgust",
+                "sorrow"
+            ],
+            [
+                "outrage",
+                "joy"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6742622256278992,
+        "word_level_coherence": [
+            0.5790024995803833,
+            0.6347590684890747
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "amazement",
+                "heterosexual"
+            ],
+            [
+                "anger",
+                "homosexual"
+            ],
+            [
+                "anguish",
+                "homosexuality"
+            ]
+        ],
+        "intra_cluster_coherence": 0.8422043919563293,
+        "word_level_coherence": [
+            0.47822698950767517,
+            0.6734091639518738
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "heterosexual",
+                "amazement"
+            ],
+            [
+                "homosexual",
+                "anger"
+            ],
+            [
+                "homosexuality",
+                "anguish"
+            ]
+        ],
+        "intra_cluster_coherence": 0.8422043919563293,
+        "word_level_coherence": [
+            0.6734091639518738,
+            0.47822698950767517
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "commitment",
+                "amazement"
+            ],
+            [
+                "desire",
+                "anguish"
+            ],
+            [
+                "enthusiasm",
+                "grief"
+            ],
+            [
+                "passion",
+                "bafflement"
+            ],
+            [
+                "reluctance",
+                "disgust"
+            ],
+            [
+                "willingness",
+                "anger"
+            ]
+        ],
+        "intra_cluster_coherence": 0.665804922580719,
+        "word_level_coherence": [
+            0.48123377561569214,
+            0.5283583998680115
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "amazement",
+                "commitment"
+            ],
+            [
+                "anger",
+                "willingness"
+            ],
+            [
+                "anguish",
+                "desire"
+            ],
+            [
+                "bafflement",
+                "passion"
+            ],
+            [
+                "disgust",
+                "reluctance"
+            ],
+            [
+                "grief",
+                "enthusiasm"
+            ]
+        ],
+        "intra_cluster_coherence": 0.665804922580719,
+        "word_level_coherence": [
+            0.5283583998680115,
+            0.48123377561569214
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "browser",
+                "boolean"
+            ],
+            [
+                "charset",
+                "integer"
+            ],
+            [
+                "desktop",
+                "initialize"
+            ],
+            [
+                "modem",
+                "parser"
+            ],
+            [
+                "router",
+                "plugin"
+            ],
+            [
+                "server",
+                "subroutine"
+            ],
+            [
+                "webmail",
+                "postfix"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5552481412887573,
+        "word_level_coherence": [
+            0.47323644161224365,
+            0.5312944054603577
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "boolean",
+                "browser"
+            ],
+            [
+                "charset",
+                "desktop"
+            ],
+            [
+                "initialize",
+                "modem"
+            ],
+            [
+                "integer",
+                "interface"
+            ],
+            [
+                "parser",
+                "postfix"
+            ],
+            [
+                "plugin",
+                "router"
+            ],
+            [
+                "software",
+                "webmail"
+            ],
+            [
+                "subroutine",
+                "server"
+            ]
+        ],
+        "intra_cluster_coherence": 0.514755368232727,
+        "word_level_coherence": [
+            0.5034454464912415,
+            0.468778133392334
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "average",
+                "decline"
+            ],
+            [
+                "doubling",
+                "drop"
+            ],
+            [
+                "half",
+                "increase"
+            ],
+            [
+                "percent",
+                "rise"
+            ],
+            [
+                "percentage",
+                "total"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5685051083564758,
+        "word_level_coherence": [
+            0.4098280966281891,
+            0.473848432302475
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "decline",
+                "average"
+            ],
+            [
+                "doubling",
+                "percent"
+            ],
+            [
+                "drop",
+                "half"
+            ],
+            [
+                "increase",
+                "percentage"
+            ],
+            [
+                "rise",
+                "rate"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6394992470741272,
+        "word_level_coherence": [
+            0.5261964797973633,
+            0.4357315003871918
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "fifth",
+                "afternoon"
+            ],
+            [
+                "first",
+                "day"
+            ],
+            [
+                "last",
+                "morning"
+            ],
+            [
+                "second",
+                "month"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7993457317352295,
+        "word_level_coherence": [
+            0.6253376603126526,
+            0.5760762095451355
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "afternoon",
+                "fifth"
+            ],
+            [
+                "day",
+                "first"
+            ],
+            [
+                "month",
+                "second"
+            ],
+            [
+                "morning",
+                "last"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7993457317352295,
+        "word_level_coherence": [
+            0.5760762095451355,
+            0.6253376603126526
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "company",
+                "distributor"
+            ],
+            [
+                "industry",
+                "subsidiary"
+            ],
+            [
+                "market",
+                "supplier"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7096396088600159,
+        "word_level_coherence": [
+            0.5014944672584534,
+            0.5321112275123596
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "company",
+                "industry"
+            ],
+            [
+                "distributor",
+                "market"
+            ],
+            [
+                "subsidiary",
+                "supplier"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6376418471336365,
+        "word_level_coherence": [
+            0.48528599739074707,
+            0.42205309867858887
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "monastery",
+                "apartment"
+            ],
+            [
+                "shrine",
+                "basement"
+            ],
+            [
+                "temple",
+                "bathroom"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7928736209869385,
+        "word_level_coherence": [
+            0.5822282433509827,
+            0.49808087944984436
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "apartment",
+                "monastery"
+            ],
+            [
+                "basement",
+                "shrine"
+            ],
+            [
+                "bathroom",
+                "temple"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7928736209869385,
+        "word_level_coherence": [
+            0.49808087944984436,
+            0.5822282433509827
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "bungalow",
+                "basement"
+            ],
+            [
+                "house",
+                "hallway"
+            ],
+            [
+                "mansion",
+                "bathroom"
+            ],
+            [
+                "palace",
+                "bedroom"
+            ],
+            [
+                "townhouse",
+                "downstairs"
+            ],
+            [
+                "villa",
+                "room"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6670598387718201,
+        "word_level_coherence": [
+            0.5736066102981567,
+            0.5674784779548645
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "basement",
+                "bungalow"
+            ],
+            [
+                "bathroom",
+                "mansion"
+            ],
+            [
+                "bedroom",
+                "palace"
+            ],
+            [
+                "downstairs",
+                "townhouse"
+            ],
+            [
+                "hallway",
+                "house"
+            ],
+            [
+                "room",
+                "villa"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6670596599578857,
+        "word_level_coherence": [
+            0.5674784779548645,
+            0.5736066102981567
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "assertion",
+                "question"
+            ],
+            [
+                "implication",
+                "theory"
+            ],
+            [
+                "suggestion",
+                "rationale"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5862739682197571,
+        "word_level_coherence": [
+            0.5582935214042664,
+            0.3455412685871124
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "graduate",
+                "baseball"
+            ],
+            [
+                "junior",
+                "basketball"
+            ],
+            [
+                "sociology",
+                "athlete"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7364296913146973,
+        "word_level_coherence": [
+            0.44869324564933777,
+            0.4932810366153717
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "athlete",
+                "sociology"
+            ],
+            [
+                "baseball",
+                "graduate"
+            ],
+            [
+                "basketball",
+                "junior"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7364296317100525,
+        "word_level_coherence": [
+            0.4932810366153717,
+            0.44869324564933777
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "athletics",
+                "gymnast"
+            ],
+            [
+                "baseball",
+                "athlete"
+            ],
+            [
+                "basketball",
+                "gymnastics"
+            ],
+            [
+                "champion",
+                "football"
+            ],
+            [
+                "championship",
+                "hurdler"
+            ],
+            [
+                "coach",
+                "sprinter"
+            ],
+            [
+                "defeat",
+                "hockey"
+            ],
+            [
+                "finisher",
+                "game"
+            ],
+            [
+                "league",
+                "soccer"
+            ],
+            [
+                "runner",
+                "softball"
+            ],
+            [
+                "win",
+                "tennis"
+            ]
+        ],
+        "intra_cluster_coherence": 0.3844689428806305,
+        "word_level_coherence": [
+            0.31126588582992554,
+            0.4047592878341675
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "going",
+                "anybody"
+            ],
+            [
+                "maybe",
+                "anyone"
+            ],
+            [
+                "thought",
+                "anything"
+            ],
+            [
+                "want",
+                "everybody"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7183902263641357,
+        "word_level_coherence": [
+            0.49836549162864685,
+            0.664055585861206
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "anybody",
+                "going"
+            ],
+            [
+                "anyone",
+                "maybe"
+            ],
+            [
+                "anything",
+                "thought"
+            ],
+            [
+                "everybody",
+                "want"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7183902263641357,
+        "word_level_coherence": [
+            0.664055585861206,
+            0.49836549162864685
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "dishwasher",
+                "heater"
+            ],
+            [
+                "oven",
+                "dryer"
+            ],
+            [
+                "refrigerator",
+                "washer"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6400084495544434,
+        "word_level_coherence": [
+            0.5837215781211853,
+            0.5785270929336548
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "dishwasher",
+                "oven"
+            ],
+            [
+                "heater",
+                "refrigerator"
+            ],
+            [
+                "washer",
+                "stove"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6055164337158203,
+        "word_level_coherence": [
+            0.5317726731300354,
+            0.6074709892272949
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "colt",
+                "foal"
+            ],
+            [
+                "filly",
+                "heifer"
+            ],
+            [
+                "gelding",
+                "mare"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7447063326835632,
+        "word_level_coherence": [
+            0.875981330871582,
+            0.6017702221870422
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "foal",
+                "colt"
+            ],
+            [
+                "heifer",
+                "filly"
+            ],
+            [
+                "mare",
+                "gelding"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7447063326835632,
+        "word_level_coherence": [
+            0.6017702221870422,
+            0.875981330871582
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "administrator",
+                "columnist"
+            ],
+            [
+                "adviser",
+                "correspondent"
+            ],
+            [
+                "aide",
+                "journalist"
+            ],
+            [
+                "assistant",
+                "writer"
+            ]
+        ],
+        "intra_cluster_coherence": 0.756347119808197,
+        "word_level_coherence": [
+            0.49821576476097107,
+            0.6316224932670593
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "columnist",
+                "administrator"
+            ],
+            [
+                "correspondent",
+                "adviser"
+            ],
+            [
+                "journalist",
+                "aide"
+            ],
+            [
+                "writer",
+                "assistant"
+            ]
+        ],
+        "intra_cluster_coherence": 0.756347119808197,
+        "word_level_coherence": [
+            0.6316224932670593,
+            0.49821576476097107
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "attorney",
+                "administrator"
+            ],
+            [
+                "counsel",
+                "aide"
+            ],
+            [
+                "lawyer",
+                "assistant"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7624335885047913,
+        "word_level_coherence": [
+            0.712590754032135,
+            0.4618157148361206
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "administrator",
+                "attorney"
+            ],
+            [
+                "aide",
+                "counsel"
+            ],
+            [
+                "assistant",
+                "lawyer"
+            ]
+        ],
+        "intra_cluster_coherence": 0.7624335885047913,
+        "word_level_coherence": [
+            0.4618157148361206,
+            0.712590754032135
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "administrator",
+                "aide"
+            ],
+            [
+                "chairman",
+                "adviser"
+            ],
+            [
+                "chairperson",
+                "assistant"
+            ],
+            [
+                "chief",
+                "manager"
+            ],
+            [
+                "president",
+                "deputy"
+            ],
+            [
+                "vice",
+                "director"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5009962320327759,
+        "word_level_coherence": [
+            0.49494799971580505,
+            0.48090845346450806
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "administrator",
+                "chairman"
+            ],
+            [
+                "adviser",
+                "chairperson"
+            ],
+            [
+                "aide",
+                "chief"
+            ],
+            [
+                "assistant",
+                "president"
+            ],
+            [
+                "director",
+                "vice"
+            ],
+            [
+                "manager",
+                "deputy"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5377841591835022,
+        "word_level_coherence": [
+            0.48679226636886597,
+            0.5217350125312805
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "basin",
+                "creek"
+            ],
+            [
+                "canal",
+                "estuary"
+            ],
+            [
+                "lake",
+                "wetland"
+            ],
+            [
+                "reservoir",
+                "marsh"
+            ],
+            [
+                "river",
+                "shoreline"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5312675833702087,
+        "word_level_coherence": [
+            0.583467423915863,
+            0.5937291383743286
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "canal",
+                "reservoir"
+            ],
+            [
+                "creek",
+                "basin"
+            ],
+            [
+                "estuary",
+                "lake"
+            ],
+            [
+                "marsh",
+                "river"
+            ],
+            [
+                "shoreline",
+                "tributary"
+            ]
+        ],
+        "intra_cluster_coherence": 0.48558053374290466,
+        "word_level_coherence": [
+            0.5753393769264221,
+            0.5980028510093689
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "barge",
+                "causeway"
+            ],
+            [
+                "boat",
+                "pier"
+            ],
+            [
+                "canoe",
+                "wharf"
+            ],
+            [
+                "speedboat",
+                "scow"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6613010168075562,
+        "word_level_coherence": [
+            0.5830485224723816,
+            0.5395684838294983
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "boat",
+                "speedboat"
+            ],
+            [
+                "causeway",
+                "barge"
+            ],
+            [
+                "pier",
+                "kayak"
+            ],
+            [
+                "wharf",
+                "canoe"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6142334938049316,
+        "word_level_coherence": [
+            0.5513234734535217,
+            0.5229397416114807
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "boat",
+                "freighter"
+            ],
+            [
+                "canoe",
+                "vessel"
+            ],
+            [
+                "kayak",
+                "ship"
+            ]
+        ],
+        "intra_cluster_coherence": 0.8148090243339539,
+        "word_level_coherence": [
+            0.7474009990692139,
+            0.7019631266593933
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "blue",
+                "orange"
+            ],
+            [
+                "pink",
+                "tangerine"
+            ],
+            [
+                "red",
+                "purple"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6202619075775146,
+        "word_level_coherence": [
+            0.6550953984260559,
+            0.5864444375038147
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "blue",
+                "pink"
+            ],
+            [
+                "orange",
+                "red"
+            ],
+            [
+                "purple",
+                "white"
+            ],
+            [
+                "tangerine",
+                "yellow"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5068020820617676,
+        "word_level_coherence": [
+            0.5946033596992493,
+            0.6072097420692444
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "ale",
+                "drink"
+            ],
+            [
+                "beer",
+                "pinot"
+            ],
+            [
+                "vodka",
+                "wine"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5832465291023254,
+        "word_level_coherence": [
+            0.6029947400093079,
+            0.5000023245811462
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "drink",
+                "ale"
+            ],
+            [
+                "pinot",
+                "beer"
+            ],
+            [
+                "wine",
+                "vodka"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5832465291023254,
+        "word_level_coherence": [
+            0.5000023245811462,
+            0.6029947400093079
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "anchovy",
+                "blackfish"
+            ],
+            [
+                "carp",
+                "clam"
+            ],
+            [
+                "cod",
+                "fish"
+            ],
+            [
+                "crab",
+                "fishery"
+            ],
+            [
+                "crayfish",
+                "hake"
+            ],
+            [
+                "eel",
+                "grouper"
+            ],
+            [
+                "halibut",
+                "kingfish"
+            ],
+            [
+                "herring",
+                "mussel"
+            ],
+            [
+                "lobster",
+                "sturgeon"
+            ],
+            [
+                "oyster",
+                "seabass"
+            ],
+            [
+                "scallops",
+                "trout"
+            ],
+            [
+                "seafood",
+                "squid"
+            ]
+        ],
+        "intra_cluster_coherence": 0.3225516080856323,
+        "word_level_coherence": [
+            0.5514410138130188,
+            0.5476141571998596
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "beetle",
+                "caterpillar"
+            ],
+            [
+                "insect",
+                "wasp"
+            ],
+            [
+                "moth",
+                "yellowjacket"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6555942893028259,
+        "word_level_coherence": [
+            0.7344532012939453,
+            0.573967695236206
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "caterpillar",
+                "beetle"
+            ],
+            [
+                "wasp",
+                "insect"
+            ],
+            [
+                "yellowjacket",
+                "moth"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6555942893028259,
+        "word_level_coherence": [
+            0.573967695236206,
+            0.7344532012939453
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "antelope",
+                "dolphin"
+            ],
+            [
+                "bird",
+                "manatee"
+            ],
+            [
+                "bobcat",
+                "cheetah"
+            ],
+            [
+                "cougar",
+                "heron"
+            ],
+            [
+                "coyote",
+                "orangutan"
+            ],
+            [
+                "deer",
+                "frog"
+            ],
+            [
+                "elk",
+                "anteater"
+            ],
+            [
+                "lynx",
+                "elephant"
+            ],
+            [
+                "moose",
+                "lizard"
+            ],
+            [
+                "raccoon",
+                "whale"
+            ],
+            [
+                "wolf",
+                "pelican"
+            ]
+        ],
+        "intra_cluster_coherence": 0.525453507900238,
+        "word_level_coherence": [
+            0.5861570835113525,
+            0.4771862328052521
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "anteater",
+                "elk"
+            ],
+            [
+                "bird",
+                "cougar"
+            ],
+            [
+                "cheetah",
+                "bobcat"
+            ],
+            [
+                "dolphin",
+                "antelope"
+            ],
+            [
+                "elephant",
+                "lynx"
+            ],
+            [
+                "frog",
+                "deer"
+            ],
+            [
+                "heron",
+                "wolf"
+            ],
+            [
+                "lizard",
+                "moose"
+            ],
+            [
+                "manatee",
+                "coyote"
+            ],
+            [
+                "orangutan",
+                "mallard"
+            ],
+            [
+                "whale",
+                "raccoon"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5289780497550964,
+        "word_level_coherence": [
+            0.4790467321872711,
+            0.5824588537216187
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "flower",
+                "cyclamen"
+            ],
+            [
+                "orchid",
+                "foxglove"
+            ],
+            [
+                "tulip",
+                "begonia"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6470674872398376,
+        "word_level_coherence": [
+            0.6391602158546448,
+            0.592559278011322
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "begonia",
+                "tulip"
+            ],
+            [
+                "cyclamen",
+                "flower"
+            ],
+            [
+                "foxglove",
+                "orchid"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6470674872398376,
+        "word_level_coherence": [
+            0.592559278011322,
+            0.6391602158546448
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "beech",
+                "fir"
+            ],
+            [
+                "oak",
+                "larch"
+            ],
+            [
+                "sycamore",
+                "birch"
+            ]
+        ],
+        "intra_cluster_coherence": 0.6018751263618469,
+        "word_level_coherence": [
+            0.6163361668586731,
+            0.5818508267402649
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "coleslaw",
+                "lasagna"
+            ],
+            [
+                "meatloaf",
+                "pasta"
+            ],
+            [
+                "quiche",
+                "polenta"
+            ],
+            [
+                "salad",
+                "ravioli"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5886820554733276,
+        "word_level_coherence": [
+            0.6621306538581848,
+            0.6872782707214355
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "lasagna",
+                "coleslaw"
+            ],
+            [
+                "pasta",
+                "meatloaf"
+            ],
+            [
+                "polenta",
+                "quiche"
+            ],
+            [
+                "ravioli",
+                "salad"
+            ]
+        ],
+        "intra_cluster_coherence": 0.5886820554733276,
+        "word_level_coherence": [
+            0.6872782707214355,
+            0.6621306538581848
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "artichoke",
+                "chives"
+            ],
+            [
+                "asparagus",
+                "cilantro"
+            ],
+            [
+                "broccoli",
+                "chive"
+            ],
+            [
+                "cabbage",
+                "fennel"
+            ],
+            [
+                "cauliflower",
+                "dill"
+            ],
+            [
+                "celeriac",
+                "oregano"
+            ],
+            [
+                "celery",
+                "rosemary"
+            ],
+            [
+                "chard",
+                "garlic"
+            ],
+            [
+                "cucumber",
+                "scallion"
+            ],
+            [
+                "daikon",
+                "basil"
+            ],
+            [
+                "eggplant",
+                "tarragon"
+            ],
+            [
+                "endive",
+                "parsley"
+            ],
+            [
+                "jicama",
+                "thyme"
+            ],
+            [
+                "shallot",
+                "kale"
+            ]
+        ],
+        "intra_cluster_coherence": 0.4279252588748932,
+        "word_level_coherence": [
+            0.634751558303833,
+            0.6905351877212524
+        ]
+    },
+    {
+        "pairs": [
+            [
+                "asparagus",
+                "shallot"
+            ],
+            [
+                "basil",
+                "daikon"
+            ],
+            [
+                "broccoli",
+                "endive"
+            ],
+            [
+                "celeriac",
+                "onion"
+            ],
+            [
+                "chive",
+                "cabbage"
+            ],
+            [
+                "chives",
+                "artichoke"
+            ],
+            [
+                "cilantro",
+                "cauliflower"
+            ],
+            [
+                "dill",
+                "kohlrabi"
+            ],
+            [
+                "fennel",
+                "celery"
+            ],
+            [
+                "garlic",
+                "chard"
+            ],
+            [
+                "oregano",
+                "cucumber"
+            ],
+            [
+                "parsley",
+                "jicama"
+            ],
+            [
+                "rosemary",
+                "eggplant"
+            ],
+            [
+                "scallion",
+                "kale"
+            ],
+            [
+                "tarragon",
+                "melon"
+            ],
+            [
+                "thyme",
+                "radish"
+            ]
+        ],
+        "intra_cluster_coherence": 0.3956335783004761,
+        "word_level_coherence": [
+            0.6714588403701782,
+            0.61247718334198
+        ]
+    }
+]
